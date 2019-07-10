@@ -12,8 +12,8 @@ package com.ssy.jvm.classLoader;
 public class Test01  {
 
     public static void main(String[] args) {
-        System.out.println(MyChild1.str1);
-//        System.out.println(MyChild1.str2);
+//        System.out.println(MyChild1.str1);
+        System.out.println(MyChild1.str2);
     }
 }
 

@@ -9,7 +9,7 @@ package com.ssy.jvm.classLoader;
  * @Author YouXu
  * @Date 2019/7/9 15:23
  **/
-public class MyTest14 {
+public class Test14 {
 
 
     public static void main(String[] args) throws Exception{
