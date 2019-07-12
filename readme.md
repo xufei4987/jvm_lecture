@@ -120,3 +120,7 @@ Access_Flag 访问标志
 
 ![](./pic/方法属性的结构.png)
 
+code属性结构
+
+![](./pic/code属性结构.png)
+
